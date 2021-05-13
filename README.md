@@ -1,2 +1,2 @@
 # repoSearch
-A repository QA search for a Covid-19 dataset
+A repository QA search engine
